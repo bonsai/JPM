@@ -1,4 +1,4 @@
-# VSCode拡張 - Java Project Manager
+# VSCode拡張 - Java Project Manager　
 
 ## Project Overview
 
